@@ -1,0 +1,44 @@
+.create-post {
+  min-width: 50%;
+  background-color: #3f51b5;
+  border-radius: 4px;
+}
+
+.create-post-button {
+  width: 90%;
+  border-radius: 20px;
+  background-color: #fff;
+}
+
+.create-post-button:hover {
+  cursor: pointer;
+}
+
+.ck-editor__editable {
+  min-height: 250px;
+  max-height: 250px;
+}
+
+.form-container {
+  min-height: 100%;
+  background-color: #fff;
+}
+
+.header-modal-form {
+  font-family: 'Proxima Nova';
+}
+
+.form-header-close {
+  position: absolute;
+  top: 0;
+  right: 0;
+}
+
+.post-photo-container {
+  text-align: center;
+}
+
+.user-photo {
+  width: 300px;
+  height: 300px;
+}

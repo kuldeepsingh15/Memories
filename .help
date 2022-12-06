@@ -1,0 +1,5 @@
+1. fix updtaes on unmounted components: https://dev.to/jexperton/how-to-fix-the-react-memory-leak-warning-d4i
+2. https://www.sanity.io/docs/js-client
+3. https://www.mongodb.com/docs/atlas/performance-advisor/schema-suggestions/
+4. https://medium.com/charisol-community/downloading-resources-in-html5-a-download-may-not-work-as-expected-bf63546e2baa 
+5. memo for functional components: https://felixgerschau.com/react-performance-react-memo/

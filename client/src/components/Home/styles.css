@@ -1,0 +1,9 @@
+.welcome-name {
+  font-family: 'Proxima Nova';
+}
+
+#footerCaraousel .carousel-inner .carousel-item img {
+  object-fit: contain;
+  min-height: 250px;
+  max-height: 250px;
+}
