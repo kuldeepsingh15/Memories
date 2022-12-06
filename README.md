@@ -10,6 +10,10 @@ https://memories-by-kuldeep.netlify.app
 <br />
 https://memories-backend-jqpk.onrender.com
 
+Resume:
+<br/>
+https://bit.ly/Kuldeep_Singh
+
 <!--  Features -->
 # Features
 1. Create, delete or edit posts
