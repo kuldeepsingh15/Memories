@@ -40,7 +40,7 @@ https://bit.ly/kuldeep__singh_
 <!-- Snippets -->
 # Snippets
 ## Home Page
-![Home Page](https://user-images.githubusercontent.com/55274410/205503915-2fed0d50-97bd-47cc-aac0-7719997414bc.png)
+![Home Page](https://user-images.githubusercontent.com/59189868/206463653-138ae3e2-c146-4dad-91c7-6e53e99e547b.jpg)
 <br />
 ![Attractive Loading](https://user-images.githubusercontent.com/55274410/151668643-f706785c-2af5-45be-a0ad-403667dfa12c.png)
  
