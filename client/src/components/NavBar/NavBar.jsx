@@ -211,6 +211,14 @@ const NavBar = ({ searchText, setSearchText, disableSearch }) => {
                       Github
                     </a>
                   </ListItem>
+                  <ListItem button>
+                    <a
+                      href="https://bit.ly/kuldeep__singh_"
+                      style={{ textDecoration: 'none', color: 'black' }}
+                    >
+                      Resume / CV
+                    </a>
+                  </ListItem>
                 </List>
               </div>
             </Drawer>
