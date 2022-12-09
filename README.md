@@ -12,7 +12,7 @@ https://memories-backend-jqpk.onrender.com
 
 Resume:
 <br/>
-https://bit.ly/kuldeep__singh
+https://bit.ly/kuldeep__singh_ 
 
 <!--  Features -->
 # Features
