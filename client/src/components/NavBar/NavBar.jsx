@@ -213,7 +213,7 @@ const NavBar = ({ searchText, setSearchText, disableSearch }) => {
                   </ListItem>
                   <ListItem button>
                     <a
-                      href="https://bit.ly/kuldeep__singh_"
+                      href="https://bit.ly/kuldeepSingh"
                       style={{ textDecoration: 'none', color: 'black' }}
                     >
                       Resume / CV
